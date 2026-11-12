@@ -11,3 +11,5 @@ Página de links sociais do Scary Go Funny, feita em HTML e CSS e pronta para pu
 4. A página ficará disponível em `https://gianaugusto.github.io/funnyscary-/`.
 
 Os links sociais, textos e metadados de busca estão em [index.html](./index.html).
+
+Também há páginas legais para [Política de Privacidade](./policy.html) e [Termos e Condições](./terms.html).
